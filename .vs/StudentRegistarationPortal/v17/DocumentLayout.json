@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\assests\\stylesheets\\userstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:assests\\stylesheets\\userstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\assests\\stylesheets\\datatables.bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:assests\\stylesheets\\datatables.bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\student\\selectedcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\student\\selectedcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\student\\allcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\student\\allcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\admin\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\admin\\courses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\models\\selectedcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:models\\selectedcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\assests\\customjsscripts\\admincourses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:assests\\customjsscripts\\admincourses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\assests\\customjsscripts\\studentcourses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:assests\\customjsscripts\\studentcourses.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\admin\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\admin\\createcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|c:\\users\\poorvikgowdak\\source\\repos\\studentregistarationportal\\assests\\customjsscripts\\admincreatecourse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6665CD5A-9304-470E-8F24-F98FE7F1978E}|StudentRegistarationPortal.csproj|solutionrelative:assests\\customjsscripts\\admincreatecourse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAUwKsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:31:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAUwKIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:43:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectedCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Student\\SelectedCourses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\SelectedCourses.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Student\\SelectedCourses.cshtml",
+              "RelativeToolTip": "Views\\Student\\SelectedCourses.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T11:05:39.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dataTables.bootstrap5.min.css",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\Stylesheets\\dataTables.bootstrap5.min.css",
+              "RelativeDocumentMoniker": "Assests\\Stylesheets\\dataTables.bootstrap5.min.css",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\Stylesheets\\dataTables.bootstrap5.min.css",
+              "RelativeToolTip": "Assests\\Stylesheets\\dataTables.bootstrap5.min.css",
+              "ViewState": "AQIAALoBAAAAAAAAAAAowNUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T07:11:28.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAADwv4UAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:15:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Student\\AllCourses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\AllCourses.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Student\\AllCourses.cshtml",
+              "RelativeToolTip": "Views\\Student\\AllCourses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:57:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userStyle.css",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\Stylesheets\\userStyle.css",
+              "RelativeDocumentMoniker": "Assests\\Stylesheets\\userStyle.css",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\Stylesheets\\userStyle.css",
+              "RelativeToolTip": "Assests\\Stylesheets\\userStyle.css",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T07:13:09.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Courses.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Admin\\Courses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Courses.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Admin\\Courses.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Courses.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:38:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectedCourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Models\\SelectedCourseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\SelectedCourseDTO.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Models\\SelectedCourseDTO.cs",
+              "RelativeToolTip": "Models\\SelectedCourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:44:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Models\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Models\\CourseDTO.cs",
+              "RelativeToolTip": "Models\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:31:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:56:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminCourses.js",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\AdminCourses.js",
+              "RelativeDocumentMoniker": "Assests\\CustomJSScripts\\AdminCourses.js",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\AdminCourses.js",
+              "RelativeToolTip": "Assests\\CustomJSScripts\\AdminCourses.js",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T07:02:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T07:32:55.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentCourses.js",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\StudentCourses.js",
+              "RelativeDocumentMoniker": "Assests\\CustomJSScripts\\StudentCourses.js",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\StudentCourses.js",
+              "RelativeToolTip": "Assests\\CustomJSScripts\\StudentCourses.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T07:05:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Admin\\CreateCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\CreateCourse.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Admin\\CreateCourse.cshtml",
+              "RelativeToolTip": "Views\\Admin\\CreateCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T09:29:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:57:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T06:56:51.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminCreateCourse.js",
+              "DocumentMoniker": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\AdminCreateCourse.js",
+              "RelativeDocumentMoniker": "Assests\\CustomJSScripts\\AdminCreateCourse.js",
+              "ToolTip": "C:\\Users\\PoorvikGowdaK\\source\\repos\\StudentRegistarationPortal\\Assests\\CustomJSScripts\\AdminCreateCourse.js",
+              "RelativeToolTip": "Assests\\CustomJSScripts\\AdminCreateCourse.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T07:04:59.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

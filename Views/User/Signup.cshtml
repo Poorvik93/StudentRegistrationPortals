@@ -1,0 +1,61 @@
+﻿@model StudentRegistarationPortal.Models.UserDTO
+
+@{
+    ViewBag.Title = "Sign Up";
+    ViewBag.LoginTabActive = "";
+    ViewBag.SignUpTabActive = " active";
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+
+<div class="fw-semibold">
+
+    @Html.ValidationSummary(true, string.Empty, new { @class = "field-validation-error" })
+
+    @using (Html.BeginForm("SignUpUser", "User", FormMethod.Post))
+    {
+        <div class="mb-3">
+            @Html.LabelFor(user => user.UserName, new { @class = "form-label" })
+            @Html.TextBoxFor(user => user.UserName, new { @class = "form-control rounded-pill p-2 shadow-none " })
+            @Html.ValidationMessageFor(user => user.UserName)
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(user => user.Email, new { @class = "form-label" })
+            @Html.TextBoxFor(user => user.Email, new { @class = "form-control rounded-pill p-2 shadow-none " })
+            @Html.ValidationMessageFor(user => user.Email)
+        </div>
+        <div class="mb-3">
+            @Html.LabelFor(user => user.Password, new { @class = "form-label" })
+            @Html.PasswordFor(user => user.Password, new { @class = "form-control rounded-pill p-2 shadow-none " })
+            @Html.ValidationMessageFor(user => user.Password)
+        </div>
+
+        <div class="mb-3">
+            @Html.LabelFor(user => user.ConfirmPassword, new { @class = "form-label" })
+            <div class="position-relative d-flex justify-content-end">
+                @Html.PasswordFor(user => user.ConfirmPassword, new { @class = "form-control rounded-pill p-2 shadow-none ", id = "password-field" })
+                <i class="bi bi-eye fs-5 me-2" id="eye-icon"></i>
+            </div>
+
+            @Html.ValidationMessageFor(user => user.ConfirmPassword)
+        </div>
+
+        <div class="form-check">
+            @Html.CheckBoxFor(user => user.IsAcceptedTerms, new { @class = "form-check-input shadow-none " })
+            @Html.LabelFor(user => user.IsAcceptedTerms, new { @class = "form-check-label small " })
+            <br />
+            @Html.ValidationMessageFor(user => user.IsAcceptedTerms)
+        </div>
+
+        <button type="submit" class="btn btn-primary mb-3 rounded-pill w-100 mt-3 fw-semibold ">SIGN UP</button>
+    }
+
+
+    <p class="col-6 btn rounded-0 signup-tab w-100 my-0 ">
+        Already have an account?
+        @Html.ActionLink("Log In", "LogIn", "User", new
+        {
+            @class = "text-decoration-none text-primary fw-semibold"
+        })
+    </p>
+</div>

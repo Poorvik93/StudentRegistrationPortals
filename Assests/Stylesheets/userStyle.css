@@ -1,0 +1,55 @@
+﻿/*body {
+    background: url(../Images/Background.jpg) no-repeat;
+    background-size: cover;
+    height: 100dvh;
+    backdrop-filter: blur(1px) contrast(80%);
+}*/
+
+/*body::after {
+    content: "";
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgb(255, 255, 255, .3);
+}*/
+
+/*.overlay {
+    background: rgba(57, 57, 57, 0.5);
+    height:100%;
+}
+*/
+/*.login-tab, .signup-tab {
+    border-bottom: 2px solid transparent;
+}
+
+    .login-tab.active, .signup-tab.active {
+        border: none;
+        border-bottom: 2px solid black;
+        a
+
+{
+    color: black !important;
+}
+
+}
+
+.input-validation-error {
+    border-color: red;
+}
+
+.field-validation-error {
+    font-size: smaller;
+    color: red;
+}
+
+#eye-icon {
+    position: absolute;
+    top: 5px
+}*/
+
+/*#password-field:focus-within + p > i, #password-field:active + p > i {
+    display: block;
+}*/

@@ -1,0 +1,142 @@
+﻿/*
+.input-validation-error {
+    border-color: red;
+}
+
+.field-validation-error {
+    font-size: smaller;
+    color: red;
+}
+
+#controls-section a {
+    text-decoration: none;
+    margin-inline-start: 2px;
+}
+
+.page-link {
+    border-radius: 5px;
+    border: none;
+}
+
+    .page-link.previous, .page-link.next {
+        background-color: transparent;
+        font-size: 20px;
+    }
+
+.pagination > li {
+    padding: 0px !important;
+}
+
+div.dt-container .dt-paging .dt-paging-button:hover {
+    color: white !important;
+    border: none !important;
+    background-color: transparent !important;
+    background: none !important;
+    background: none !important;
+    background: none !important;
+    background: none !important;
+    background: none !important;
+    background: none !important;
+}
+
+#controls-section {
+    position: relative;
+    cursor: pointer;
+}
+
+#log-out-option {
+    position: absolute;
+    background-color: white;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    padding: 5px;
+    right: 0px;
+}
+
+
+
+
+
+#allCourseBtn, #selectedCourseBtn {
+    background-color: white;
+    border-top: 1px solid gray !important;
+    border-bottom: 1px solid gray !important;
+    border-right: 1px solid gray !important;
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+}
+
+.reverse-triangle {
+    position: absolute;
+    top: 35px;
+    color: transparent;
+}
+
+    .reverse-triangle.active {
+        color: dodgerblue;
+    }
+
+#allCourseBtn {
+    border-left: 1px solid gray !important;
+}
+
+    #selectedCourseBtn.active, #allCourseBtn.active {
+        background-color: dodgerblue;
+        color: white;
+    }
+
+.dt-search > label {
+    display: none;
+}
+
+.datatable-row-detail {
+    width: 100vw;
+}
+
+#data-table-search-icon.admin {
+    right: 46%;
+    top: 2px;
+}
+
+#data-table-search-icon.student {
+    right: 10%;
+    top: 2px;
+}
+
+#adminCourses * {
+    border: none !important;
+}
+
+#courses * {
+    border: none !important;
+}
+
+tbody > tr:hover {
+    border: none !important;
+}
+
+#dt-search-0 {
+    box-shadow: none !important;
+    width: 250px;
+    border: 1px solid gray !important;
+}
+
+#create-new-course-btn {
+    left: 20px;
+}
+
+#create-new-course-btn-sm {
+    top: -50px;
+    right: -75px;
+}
+
+#create-new-course-btn-md {
+    top: -50px;
+    right: -75px;
+}
+
+#data-table-search-icon-sm {
+    right: 30px;
+}
+*/
